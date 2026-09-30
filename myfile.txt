@@ -1,0 +1,2 @@
+Im adding new text to the begining of file
+My name is MAnuel Godoy and this is my file
