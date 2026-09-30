@@ -1,0 +1,197 @@
+    1  ls
+    2  pwd
+    3  ~
+    4  cd Desktop
+    5  `
+    6  ~
+    7  pwd
+    8  ls
+    9  ~
+   10  sudo apt-get install git
+   11  sudo apt-get update
+   12  sudo apt-get upgrade
+   13  git --version
+   14  ls
+   15  cd ..
+   16  ls
+   17  cd etc
+   18  cd Snap
+   19  cd snap
+   20  ls
+   21  cd ..
+   22  ls
+   23  cd ..
+   24  ls
+   25  cd etc
+   26  ls
+   27  cat passwd
+   28  less passwd
+   29  nano passwd
+   30  pwd
+   31  ls
+   32  cd ..
+   33  ls
+   34  cd usr
+   35  ls
+   36  mkdir Lab_2
+   37  ls
+   38  cd ..
+   39  ls
+   40  cd snap
+   41  ls
+   42  cd [200~desktop-security-center~
+   43  cd desktop-security-center
+   44  ls
+   45  cd ..
+   46  ls
+   47  cd ..
+   48  ls
+   49  cd home
+   50  ls
+   51  cd manuel
+   52  ls
+   53  mkdir Lab_2
+   54  cd Lab_2
+   55  mkdir notes
+   56  mkdir practice
+   57  cd notes
+   58  pwd
+   59  cd ..
+   60  cd practice
+   61  pwd
+   62  cd ..
+   63  ls
+   64  cd notes
+   65  touch commands.txt
+   66  ls
+   67  echo "pwd - prints current direcotry" commands.txt
+   68  cat commands.txt
+   69  ls
+   70  cd commands.txt
+   71  cat commands.txt
+   72  echo "pwd - prints current directory"
+   73  echo "pwd - prints current directory" >> commands.txt
+   74  cat commands.txt
+   75  echo "ls - lists files" >> commands.txt
+   76  echo "cd - changes directory" >> commands.txt
+   77  cat commands.txt
+   78  ls
+   79  cd ..
+   80  cp notes/commands.txt practice/commands.txt
+   81  cd practice
+   82  ls
+   83  cat commands.txt
+   84  mv commands.txt my_commands.txt
+   85  ls
+   86  cd ..
+   87  cd notes
+   88  rm commands.txt
+   89  ls
+   90  cd ..
+   91  whoami > system_info.txt
+   92  cat system_info.txt
+   93  uname -a >>system_info.txt
+   94  cat system_info.txt
+   95  date >> system_info.txt
+   96  cat system_info.txt
+   97  df -h >> system_info.txt
+   98  cat system_info.txt
+   99  cd ..
+  100  ls
+  101  tar -czvf yourUCID_IT340_Lab2.tar.gz Lab_2
+  102  ls
+  103  rm tar -czvf yourUCID_IT340_Lab2.tar.gz Lab_2
+  104  ls
+  105  rm --help
+  106  rm -i yourUCID_IT340_Lab2.tar.gz Lab_2
+  107  ls
+  108  ta -czvf mag278_IT340_Lab2.tar.gz Lab_2~
+  109  tar -czvf mag278_IT340_Lab2.tar.gz Lab_2~
+  110  ta -czvf mag278_IT340_Lab2.tar.gz Lab_2
+  111  tar -czvf mag278_IT340_Lab2.tar.gz Lab_2
+  112  ls
+  113  cd Documents
+  114  history > history.txt
+  115  ls
+  116  cat history.txt
+  117  ls
+  118  cd ..
+  119  ls
+  120  cd ..
+  121  la
+  122  cd ..
+  123  ls
+  124  cd etc
+  125  ls
+  126  cat passwd
+  127  less passwd
+  128  nano passwd
+  129  cat group
+  130  cat hostname
+  131  cat os-release
+  132  cd sys
+  133  ls
+  134  cd ..
+  135  ls
+  136  cd sys
+  137  cat kernel/debug/multigrain_timestamps
+  138  ls
+  139  sudo cat kernel/debug/multigrain_timestamps
+  140  cd ..
+  141  ls
+  142  cd home
+  143  ls
+  144  cd manuel
+  145  ls
+  146  mkdir Lab_3 ./Documents
+  147  mkdir ./Documents/Lab_3
+  148  pwd
+  149  ls /
+  150  la
+  151  ls
+  152  cd Documents
+  153  ls
+  154  cd Lab_3
+  155  ls
+  156  cd ..
+  157  ls
+  158  cd Lab_3
+  159  ls
+  160  cd Lab_3
+  161  ls
+  162  cd ..
+  163  ls
+  164  rm Lab_3
+  165  rm -r Lab_3
+  166  ls
+  167  cd Lab_2
+  168  ls
+  169  cd ..
+  170  cat Documents
+  171  cd Documents
+  172  ls
+  173  cd Lab_3
+  174  cp /etc/passwd .
+  175  cp /etc/group .
+  176  cp etc/hostname .
+  177  cp etx/hostname .
+  178  cp etc/hostname .
+  179  cp /etc/hostname .
+  180  cp /etc/os-release .
+  181  cp /sys/kernel/debug/multigrain_timestamps .
+  182  sudo cp/sys/kernel/debug/multigrain_timestamps .
+  183  sudo cp /sys/kernel/debug/multigrain_timestamps .
+  184  ls
+  185  sudo apt-get-install git
+  186  cd..
+  187  cd ..
+  188  ls
+  189  cd ..
+  190  ls
+  191  pwd
+  192  sudo apt-get-install git
+  193  sudo apt-get update
+  194  exit
+  195  pwd
+  196  ls
+  197  history > Documents/Lab_3/history.txt
