@@ -1,0 +1,37 @@
+commit 57a6614ce0a0c2da87db540f95a6e91a94d1d64b
+Author: Manuel <mag278@njit.edu>
+Date:   Tue Sep 29 23:34:31 2026 -0400
+
+    Revert "created a new file named myfile.txt and added text"
+    
+    This reverts commit 8c534394b3df0a73d630ddddabad989621600979.
+
+commit 8c534394b3df0a73d630ddddabad989621600979
+Author: Manuel <mag278@njit.edu>
+Date:   Tue Sep 29 23:32:50 2026 -0400
+
+    created a new file named myfile.txt and added text
+
+commit be0c9b214626bff11773fd10839aa635b126d1b5
+Author: Manuel <mag278@njit.edu>
+Date:   Tue Sep 29 23:26:21 2026 -0400
+
+    added another comment to passwd
+
+commit e689fcbda3c3151f31ab5877ade5c610c8ec6c00
+Author: Manuel <mag278@njit.edu>
+Date:   Tue Sep 29 23:06:08 2026 -0400
+
+    updated hisotry txt to include recent history from new session
+
+commit f477037955d1e18fba832a17901dacf90c09e491
+Author: Manuel <mag278@njit.edu>
+Date:   Tue Sep 29 23:04:30 2026 -0400
+
+    added a comment to passwd file
+
+commit a3b6151ba8689e8e0ca9287e3c1f416dff72313b
+Author: Manuel <mag278@njit.edu>
+Date:   Tue Sep 29 22:35:19 2026 -0400
+
+    Lab 3 files and history.txt 1.0
